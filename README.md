@@ -10,7 +10,7 @@
 ## Resources and Tools Used
 **Tools:** Jupyter Notebook
 
-**Packages:** Pandas, NumPy, sklearn, Matplotlib, TensorFlow, Keras, Seeborn.
+**Packages:** Pandas, NumPy, sklearn, Matplotlib, TensorFlow, Keras and Seeborn.
 
 ## Data Used
 * **Data taken from kaggle** : https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones
